@@ -107,7 +107,7 @@ The skill uses **progressive disclosure** — Claude loads only what's needed:
 
 **Jude Ighomena**  
 Award-Winning AI & Telecom Infrastructure Leader  
-Co-Founder, iRaven Group UK | MBA, Hult International Business School  
+Co-Founder, iRaven Group UK 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jude%20Ighomena-blue?logo=linkedin)](https://linkedin.com/in/jude-ighomena)
 
 ---
